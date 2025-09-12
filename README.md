@@ -1,33 +1,57 @@
 <h1 align="center">Hi 👋, I'm Gourav Gilhare</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">🚀 A Passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravgilhare&label=Profile%20views&color=0e75b6&style=flat" alt="gouravgilhare" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gouravgilhare" alt="gouravgilhare" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gouravgilhare&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gouravgilhare&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/gilharegourav" target="blank"><img src="https://img.shields.io/twitter/follow/gilharegourav?logo=twitter&style=for-the-badge" alt="gilharegourav" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/gilharegourav" target="blank">
+    <img src="https://img.shields.io/twitter/follow/gilharegourav?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
+  </a>
+</p>
 
-- 📫 How to reach me **gourav.gilhare2023@ssipmt.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gilharegourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gilharegourav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gourav-gilhare-b876302b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav-gilhare-b876302b5" height="30" width="40" /></a>
-<a href="https://instagram.com/gouravgilhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gouravgilhare" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gourav_gilhare21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gourav_gilhare21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gouravgilhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gouravgilhare" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/gouravgiy3xj/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gouravgiy3xj" height="30" width="40" />
-</a>
+### 📫 How to reach me  
+**Email:** gourav.gilhare2023@ssipmt.com  
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="left">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://twitter.com/gilharegourav" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://linkedin.com/in/gourav-gilhare-b876302b5" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/gouravgilhare" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://www.hackerrank.com/gourav_gilhare21" target="blank"><img src="https://skillicons.dev/icons?i=hackerrank" height="40" /></a>
+  <a href="https://www.leetcode.com/gouravgilhare" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" height="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/gouravgiy3xj/" target="blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravgilhare&show_icons=true&locale=en&layout=compact" alt="gouravgilhare" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravgilhare&show_icons=true&locale=en" alt="gouravgilhare" /></p>
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,linux,postman" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravgilhare&" alt="gouravgilhare" /></p>
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravgilhare&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravgilhare&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravgilhare&theme=tokyonight" alt="Streak Stats"/>
+</p>
