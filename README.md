@@ -1,5 +1,6 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Gourav Gilhare</h1>
-<h3 align="center">🚀 A passionate Fullstack Developer from India</h3>
+<h3 align="center">🚀 Fullstack Developer | Java Enthusiast | MERN Stack Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gouravgilhare&label=Profile%20Views&color=6aa6f8&style=for-the-badge" alt="Profile Views" />
@@ -7,44 +8,102 @@
 
 ---
 
-### 🏆 Achievements
+## 👨‍💻 About Me  
+
+- 🔭 Currently building **MERN stack applications** (MongoDB, Express, React, Node.js)  
+- 💻 Strong foundation in **Core Java, OOPs, and Backend Development**  
+- 🌱 Expanding skills in **Next.js, JavaScript, and DevOps tools**  
+- 👯 Open to collaborating on **open-source fullstack projects**  
+- 💬 Ask me about **Java, MERN stack, DSA, and career tips in software development**  
+- ⚡ Fun fact: I love solving puzzles & exploring new tech trends  
+
+---
+
+## 🏆 Achievements  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gouravgilhare&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-### 🌐 Connect with me  
+## 🧰 Tech Stack  
+
 <p align="center">
-  <a href="https://twitter.com/gilharegourav" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gourav-gilhare-b876302b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/gouravgilhare" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/gourav_gilhare21" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/gouravgilhare" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/gouravgiy3xj/profile" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=java" width="45"/> 
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+<img src="https://skillicons.dev/icons?i=py" width="45"/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+<img src="https://skillicons.dev/icons?i=js" width="45"/> 
+<img src="https://skillicons.dev/icons?i=html" width="45"/> 
+<img src="https://skillicons.dev/icons?i=css" width="45"/> 
+<img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
+<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/> 
+
+<!-- Backend & Database -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/> 
+<img src="https://skillicons.dev/icons?i=express" width="45"/> 
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/> 
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/> 
+<img src="https://skillicons.dev/icons?i=nginx" width="45"/> 
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git" width="45"/> 
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>  
+<img src="https://skillicons.dev/icons?i=postman" width="45"/> 
+<img src="https://skillicons.dev/icons?i=figma" width="45"/> 
+<img src="https://skillicons.dev/icons?i=arduino" width="45"/> 
+
 </p>
 
 ---
 
-### 💻 Languages & Tools  
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,c,cpp,css,express,figma,git,html,ai,java,js,linux,mongodb,mysql,nginx,nodejs,ps,postman,py,react,tailwind" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gouravgilhare&show_icons=true&theme=radical&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgilhare&layout=compact&theme=radical&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravgilhare&theme=radical&hide_border=true" height="160px"/>
+</p>
+
+---
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/gourav-gilhare-b876302b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/gilharegourav">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/gouravgilhare">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/gouravgilhare">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/gouravgiy3xj/profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/gourav_gilhare21">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=gouravgilhare&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravgilhare&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-  
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gouravgilhare&theme=tokyonight&hide_border=true" height="160px"/>
-  
-</div>
+## 📫 How to Reach Me  
+📧 **gourav.gilhare2023@ssipmt.com**
 
 ---
 
-### 📫 How to reach me  
-📧 **gourav.gilhare2023@ssipmt.com**  
+## 🧠 Quote I Like  
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
