@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Gourav Gilhare</h1>
-<h3 align="center">🚀 Fullstack Developer | Java Enthusiast | MERN Stack Builder</h3>
+<h3 align="center">💻 Backend Developer | Java & Spring Boot | Node.js Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gouravgilhare&label=Profile%20Views&color=6aa6f8&style=for-the-badge" alt="Profile Views" />
@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me  
 
-- 🔭 Currently building **MERN stack applications** (MongoDB, Express, React, Node.js)  
-- 💻 Strong foundation in **Core Java, OOPs, and Backend Development**  
-- 🌱 Expanding skills in **Next.js, JavaScript, and DevOps tools**  
-- 👯 Open to collaborating on **open-source fullstack projects**  
-- 💬 Ask me about **Java, MERN stack, DSA, and career tips in software development**  
-- ⚡ Fun fact: I love solving puzzles & exploring new tech trends  
+- 🔭 Currently building **Spring Boot** and **Node.js** backend applications  
+- 💻 Strong foundation in **Core Java**, **OOPs**, and **Data Structures & Algorithms (C/C++)**  
+- 🌱 Exploring **React + Tailwind CSS** for frontend integration  
+- ☁️ Hands-on with **AWS**, **Docker**, and **Git** for deployment and version control  
+- 💬 Ask me about **Java, Spring Boot, DSA, Node.js, and MySQL/MongoDB**  
+- ⚡ Fun fact: I love optimizing code and solving challenging backend problems  
 
 ---
 
@@ -34,29 +34,28 @@
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=java" width="45"/> 
 <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-<img src="https://skillicons.dev/icons?i=py" width="45"/>
+<img src="https://skillicons.dev/icons?i=c" width="45"/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
 
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=js" width="45"/> 
-<img src="https://skillicons.dev/icons?i=html" width="45"/> 
-<img src="https://skillicons.dev/icons?i=css" width="45"/> 
 <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/> 
+<img src="https://skillicons.dev/icons?i=js" width="45"/> 
 
-<!-- Backend & Database -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/> 
-<img src="https://skillicons.dev/icons?i=express" width="45"/> 
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/> 
+<!-- Database -->
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/> 
-<img src="https://skillicons.dev/icons?i=nginx" width="45"/> 
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/> 
 
-<!-- Tools -->
+<!-- DevOps / Tools -->
+<img src="https://skillicons.dev/icons?i=aws" width="45"/>
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
 <img src="https://skillicons.dev/icons?i=git" width="45"/> 
-<img src="https://skillicons.dev/icons?i=linux" width="45"/>  
+<img src="https://skillicons.dev/icons?i=linux" width="45"/> 
 <img src="https://skillicons.dev/icons?i=postman" width="45"/> 
-<img src="https://skillicons.dev/icons?i=figma" width="45"/> 
-<img src="https://skillicons.dev/icons?i=arduino" width="45"/> 
 
 </p>
 
@@ -74,6 +73,7 @@
 </p>
 
 ---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
